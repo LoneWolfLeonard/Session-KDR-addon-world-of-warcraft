@@ -1,0 +1,1 @@
+March 15th 2016- updated the interface number so that the build would work in legion and added the change log. I removed the on off command and restored it to base functionality.
