@@ -1,1 +1,2 @@
-March 15th 2016- updated the interface number so that the build would work in legion and added the change log. I removed the on off command and restored it to base functionality.
+March 15th 2017- updated the interface number so that the build would work in legion and added the change log. I removed the on off command and restored it to base functionality.
+April 15th 2017 - updated theinterface number to 70200 so that it will work with the new patch.

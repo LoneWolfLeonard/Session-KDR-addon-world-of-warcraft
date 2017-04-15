@@ -1,4 +1,5 @@
-## Interface: 70100
+## Interface: 70200
+## X-Min-Interface: 70200
 ## Title: SessionKDR
 ## Author: Leonard Treman
 ## Notes: SessionKDR keeps track of your kill to death ratio for the session.
@@ -6,7 +7,7 @@
 It's a light weight program that takes your honorable kills for a session and divides them by your deaths and prints them in the chat whenever you kill someone or die!
 
 This program resets on each logout or login or when you reload your User Interface or UI.
-## Version: 1.3
+## Version: 1.4
 
 Frame.xml
 Frame.lua
